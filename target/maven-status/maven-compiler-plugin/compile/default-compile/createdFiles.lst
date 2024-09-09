@@ -1,0 +1,9 @@
+br\com\alura\codechella\CodechellaApplication.class
+br\com\alura\codechella\old\service\UsuarioServiceImpl.class
+br\com\alura\codechella\domain\Endereco.class
+br\com\alura\codechella\old\service\UsuarioService.class
+br\com\alura\codechella\old\model\Usuario.class
+br\com\alura\codechella\domain\entities\usuario\Usuario.class
+br\com\alura\codechella\old\controller\UsuarioController.class
+br\com\alura\codechella\old\repository\UsuarioRepository.class
+br\com\alura\codechella\domain\entities\usuario\FabricaDeUsuario.class
