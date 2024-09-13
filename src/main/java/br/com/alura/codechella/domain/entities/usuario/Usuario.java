@@ -66,7 +66,8 @@ public class Usuario {
         int idade = Period.between(nascimento, LocalDate.now()).getYears();
 
         if(nascimento == null || idade < 18 ){
-            throw new IllegalArgumentException("Idade do usuário deve ser maior que 18 anos!");
+            throw new IllegalArgumentException("Idade do usuário deve ser maior que 18 anos!"
+                    + "");
         }
 
 
